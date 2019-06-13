@@ -1,4 +1,4 @@
-###### Create git repo:
+###### Convert non-empty directory in to a git repo:
 ```
 $ git init
 ```
